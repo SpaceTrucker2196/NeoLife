@@ -1,7 +1,7 @@
 NeoLife
 =======
 
-Some cobbled togther Arduino code using a life algorithm I found on pastbin.
+Some cobbled togther Arduino code using a life algorithm I found on pastebin.
 
 Works with a Adafruit NeoPixel 8x8 matrix
 
